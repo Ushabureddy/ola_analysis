@@ -83,7 +83,7 @@ SELECT `Booking ID`, `Incomplete Rides Reason` FROM ola WHERE `Incomplete Rides`
 ## Credits
 
 This project was inspired by the YouTube tutorial:  
-**[Power BI Dashboard Tutorial]([https://youtu.be/1uPUyT9LoHQ](https://youtu.be/1uPUyT9LoHQ?si=cfjTtS1NMMp4FrNU))**  
+**[Power BI Dashboard Tutorial](https://youtu.be/1uPUyT9LoHQ?si=Fgsja-ZG9PskDZcz)**  
 Channel: [Top Varsity](www.youtube.com/@TopVarSity)  
 The tutorial was used as a reference to understand dashboard design and visualization techniques.
 
