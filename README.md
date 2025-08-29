@@ -1,6 +1,6 @@
-# ola_analysis
+# Ola_analysis
 
-# Ola Ride Analytics Dashboard
+## Ola Ride Analytics Dashboard
 
 This repository contains a Power BI (.pbix) file featuring an interactive **Ola Ride Analytics Dashboard** along with SQL queries on the `ola` dataset. The dashboard provides insights into ride bookings, cancellations, revenue, and ratings for the year 2024.
 
